@@ -39,6 +39,7 @@ It is strongly advised to use **CuDNN/CUDA** for faster implementation, but chec
 You will need to change line **174 - 177** and **192 - 201** to specify the credentials.
 
 To run the program you will need to go in the folder where the code is situated using the cd command and just run it by using ```py Semi``` then press ```TAB``` to have the correct path name. 
+You will have to follow TrainYourOwnYOLO README.md to create your own model and use it with this app. 
 
 ## Hikvision program
 This is a small program to test the hikvision camera and see it working, *or not*. You just have to specify the credentials on **line 10** of the python code and run it. 
